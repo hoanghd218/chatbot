@@ -5,5 +5,5 @@ pandas
 langchain
 langchain_community
 langchain_openai
-psycopg2
+psycopg2-binary
 faiss-cpu
