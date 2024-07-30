@@ -1,2 +1,9 @@
 streamlit
 openai
+numpy
+pandas
+langchain
+langchain_community
+langchain_openai
+psycopg2
+faiss-cpu
